@@ -159,7 +159,7 @@
     "opciones": [
       { "id": "A", "texto": "Los colores primarios son: rojo, amarillo, azul..." },
       { "id": "B", "texto": "Compré manzanas, peras, plátanos, etc..." },
-      { "id": "C", "texto": "Fui a la tienda y compré pan, leche y..."},
+      { "id": "C", "texto": "Fui a la tienda y compré pan, leche y..." }
     ],
     "correcta": "A",
     "hack": "Los puntos suspensivos pueden indicar una enumeración incompleta, pero nunca deben combinarse con la abreviatura 'etc.' porque significan lo mismo.",
