@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tutor de Admisión - EXANI II</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Encabezado con información y cronómetro -->
+    <header class="quiz-header">
+      <span id="modulo-tag" class="badge">Cargando...</span>
+      <div class="timer">⏱️ Tiempo: <span id="time-display">00:00</span></div>
+    </header>
+
+    <!-- Contenedor del reactivo -->
+    <main class="quiz-card">
+      <h2 id="pregunta-texto">Cargando pregunta...</h2>
+      <div id="opciones-container" class="options-group"></div>
+
+      <div class="actions">
+        <button id="btn-comprobar" onclick="comprobarRespuesta()" disabled>Comprobar Respuesta</button>
+      </div>
+    </main>
+
+    <!-- Caja de Retroalimentación y Hack de Descarte -->
+    <section id="feedback-card" class="feedback-card hidden">
+      <div id="status-badge" class="status-badge"></div>
+      
+      <div class="hack-box">
+        🚀 <strong>Hack de Descarte Rápido:</strong>
+        <p id="hack-texto"></p>
+      </div>
+
+      <div class="explicacion-box">
+        🔍 <strong>Análisis de Opciones:</strong>
+        <ul id="desglose-lista"></ul>
+      </div>
+
+      <button id="btn-siguiente" onclick="siguientePregunta()">Siguiente Pregunta ➔</button>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

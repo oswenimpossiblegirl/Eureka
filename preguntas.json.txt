@@ -1,0 +1,852 @@
+[
+  {
+    "id": 81,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción que presenta una concordancia nominal y verbal correcta:",
+    "opciones": [
+      { "id": "A", "texto": "La multitud de aficionados abarrotaron el estadio principal." },
+      { "id": "B", "texto": "La multitud de aficionados abarroto el estadio principal." },
+      { "id": "C", "texto": "La multitud de aficionados abarrotó el estadio principal." }
+    ],
+    "correcta": "C",
+    "hack": "Cuando un sujeto colectivo singular (como 'multitud') va seguido de un complemento en plural ('de aficionados'), el verbo puede ir en singular concordando con el núcleo ('multitud'), siendo la forma más recomendada.",
+    "desglose": {
+      "A": "Incorrecto. El verbo en plural ('abarrotaron') comete un error de concordancia con el núcleo singular del sujeto.",
+      "B": "Incorrecto. Carece de la tilde diacrítica en la última sílaba ('abarrotó').",
+      "C": "¡Correcto! El verbo concuerda adecuadamente en singular con el núcleo del sujeto colectivo ('multitud abarrotó')."
+    }
+  },
+  {
+    "id": 82,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elige el enunciado escrito correctamente en cuanto a ortografía y acentuación:",
+    "opciones": [
+      { "id": "A", "texto": "El cientifico explico como realizo el experimento." },
+      { "id": "B", "texto": "El científico explicó cómo realizó el experimento." },
+      { "id": "C", "texto": "El cientifico explicó como realizó el experimento." }
+    ],
+    "correcta": "B",
+    "hack": "Las palabras esdrújulas ('científico', 'expliqué/explicó') llevan tilde obligatoria; asimismo, 'cómo' y 'realizó' llevan acento por ser interrogativa/exclamativa indirecta y aguda terminada en vocal respectivamente.",
+    "desglose": {
+      "A": "Incorrecto. Omite las tildes en 'científico', 'explicó', 'cómo' y 'realizó'.",
+      "B": "¡Correcto! Todas las palabras están acentuadas de acuerdo con las reglas generales de acentuación de la lengua española.",
+      "C": "Incorrecto. Omite la tilde en la palabra esdrújula 'científico'."
+    }
+  },
+  {
+    "id": 83,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione la opción que utiliza correctamente el signo de puntuación (coma) para aislar un vocativo:",
+    "opciones": [
+      { "id": "A", "texto": "Es necesario que estudies con atención, alumno." },
+      { "id": "B", "texto": "Es necesario, que estudies con atención alumno." },
+      { "id": "C", "texto": "Es necesario que estudies, con atención alumno." }
+    ],
+    "correcta": "A",
+    "hack": "El vocativo (la persona a quien se invoca o dirige la palabra) debe ir separado por comas del resto de la oración.",
+    "desglose": {
+      "A": "¡Correcto! La coma aísla correctamente el vocativo 'alumno' al final del enunciado.",
+      "B": "Incorrecto. Coloca la coma separando incorrectamente el verbo de su complemento.",
+      "C": "Incorrecto. Aisla erróneamente la preposición 'con' rompiendo la ilación sintáctica."
+    }
+  },
+  {
+    "id": 84,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija el enunciado que muestra una correcta cohesión léxico-semántica sin redundancias:",
+    "opciones": [
+      { "id": "A", "texto": "Subió arriba de la tarima para comenzar su exposición magistral." },
+      { "id": "B", "texto": "Entró adentro del recinto académico para entregar su protocolo." },
+      { "id": "C", "texto": "Subió a la tarima para comenzar su exposición magistral." }
+    ],
+    "correcta": "C",
+    "hack": "Evita los pleonasmos o redundancias viciosas como 'subir arriba' o 'entrar adentro'.",
+    "desglose": {
+      "A": "Incorrecto. Contiene el pleonasmo 'subió arriba', ya que subir implica por definición ir hacia arriba.",
+      "B": "Incorrecto. Incurre en el pleonasmo 'entró adentro'.",
+      "C": "¡Correcto! Presenta una redacción limpia, concisa y libre de redundancias léxicas."
+    }
+  },
+  {
+    "id": 85,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Completa el enunciado con las grafías correctas:\nEl e_ercito reali_ó una intensa in_estigación sobre el caso.",
+    "opciones": [
+      { "id": "A", "texto": "j - z - v" },
+      { "id": "B", "texto": "j - s - b" },
+      { "id": "C", "texto": "g - z - v" }
+    ],
+    "correcta": "A",
+    "hack": "Recuerda las reglas de grafofonética: 'ejército' va con j, 'realizó' con z en su flexión, e 'investigación' con v.",
+    "desglose": {
+      "A": "¡Correcto! Las grafías 'j', 'z' y 'v' corresponden a la normativa ortográfica correcta de las palabras.",
+      "B": "Incorrecto. Escribe incorrectamente investigación con b.",
+      "C": "Incorrecto. 'Ejército' no se escribe con g inicial en este contexto fonético."
+    }
+  },
+  {
+    "id": 86,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción que sustituye adecuadamente la palabra repetida empleando un mecanismo de correferencia pronominal:",
+    "opciones": [
+      { "id": "A", "texto": "El profesor entregó los exámenes a los alumnos; los alumnos revisaron los exámenes con cuidado." },
+      { "id": "B", "texto": "El profesor entregó los exámenes a los alumnos; estos los revisaron con cuidado." },
+      { "id": "C", "texto": "El profesor entregó los exámenes a los alumnos; revisó los exámenes." }
+    ],
+    "correcta": "B",
+    "hack": "La cohesión textual evita repeticiones innecesarias utilizando pronombres ('estos', 'los') como correferencia.",
+    "desglose": {
+      "A": "Incorrecto. Repite innecesariamente 'alumnos' y 'exámenes', empobreciendo la cohesión.",
+      "B": "¡Correcto! Emplea pronombres demostrativos ('estos') y átonos ('los') para mantener la cohesión sin repeticiones viciosas.",
+      "C": "Incorrecto. Genera ambigüedad sobre quién realizó la revisión."
+    }
+  },
+  {
+    "id": 87,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione el enunciado que utiliza correctamente el verbo haber en su forma impersonal:",
+    "opciones": [
+      { "id": "A", "texto": "Habían muchos asistentes en el auditorio durante la conferencia." },
+      { "id": "B", "texto": "Había muchos asistentes en el auditorio durante la conferencia." },
+      { "id": "C", "texto": "Hubieron varios problemas técnicos al iniciar el protocolo." }
+    ],
+    "correcta": "B",
+    "hack": "Cuando el verbo haber indica existencia, es impersonal y siempre debe conjugarse estrictamente en singular ('había', 'hubo'), nunca en plural.",
+    "desglose": {
+      "A": "Incorrecto. Error gramatical clásico al pluralizar el verbo haber impersonal ('habían').",
+      "B": "¡Correcto! El verbo haber impersonal se mantiene correctamente en singular ('había muchos asistentes').",
+      "C": "Incorrecto. La forma 'hubieron' es incorrecta en este contexto de existencia."
+    }
+  },
+  {
+    "id": 88,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción con el registro lingüístico adecuado para una carta formal o exposición de motivos académica:",
+    "opciones": [
+      { "id": "A", "texto": "Por medio de la presente, me dirijo a usted para solicitar mi incorporación al posgrado..." },
+      { "id": "B", "texto": "Hola qué tal, les escribo porque la mera verdad quiero entrar rapidito a su maestría..." },
+      { "id": "C", "texto": "Ey, fíjense que ando buscando chance en su escuela porque me late un buen su programa..." }
+    ],
+    "correcta": "A",
+    "hack": "Los documentos formales e institucionales exigen un registro lingüístico formal, objetivo y respetuoso.",
+    "desglose": {
+      "A": "¡Correcto! Mantiene las fórmulas de cortesía y el registro formal idóneo para una comunicación institucional.",
+      "B": "Incorrecto. Utiliza modismos coloquiales inapropiados para un trámite académico formal.",
+      "C": "Incorrecto. Su registro es altamente vulgar y carece de la formalidad requerida."
+    }
+  },
+  {
+    "id": 89,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Identifica el enunciado que presenta una correcta concordancia entre sujeto y verbo compuestos:",
+    "opciones": [
+      { "id": "A", "texto": "La dedicación y el esfuerzo constante conduce al éxito académico." },
+      { "id": "B", "texto": "La dedicación y el esfuerzo constante conducen al éxito académico." },
+      { "id": "C", "texto": "La dedicación así como el esfuerzo conduce al éxito." }
+    ],
+    "correcta": "B",
+    "hack": "Si un sujeto tiene dos o más núcleos coordinados en singular, el verbo debe ir obligatoriamente en plural.",
+    "desglose": {
+      "A": "Incorrecto. El verbo en singular ('conduce') falla al concordar con un sujeto compuesto de dos núcleos.",
+      "B": "¡Correcto! Al tener un sujeto compuesto ('dedicación y esfuerzo'), el verbo concuerda en plural ('conducen').",
+      "C": "Incorrecto. Cuando se usa 'así como', el verbo puede regirse por el primer núcleo en singular, pero la B muestra la regla general de coordinación copulativa."
+    }
+  },
+  {
+    "id": 90,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione la opción donde se emplean correctamente los puntos suspensivos:",
+    "opciones": [
+      { "id": "A", "texto": "Los colores primarios son: rojo, amarillo, azul..." },
+      { "id": "B", "texto": "Compré manzanas, peras, plátanos, etc..." },
+      { "id": "C", "texto": "Fui a la tienda y compré pan, leche y..."
+    ],
+    "correcta": "A",
+    "hack": "Los puntos suspensivos pueden indicar una enumeración incompleta, pero nunca deben combinarse con la abreviatura 'etc.' porque significan lo mismo.",
+    "desglose": {
+      "A": "¡Correcto! Los puntos suspensivos señalan de manera adecuada una enumeración abierta o incompleta.",
+      "B": "Incorrecto. Constituye un pleonasmo de puntuación combinar 'etc.' con puntos suspensivos.",
+      "C": "Incorrecto. Deja la oración truncada de forma abrupta e incoherente sin valor elíptico válido."
+    }
+  },
+  {
+    "id": 91,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción escrita correctamente que utiliza el conector causal adecuado:",
+    "opciones": [
+      { "id": "A", "texto": "No entregó el protocolo a tiempo porqué se enfermó repentinamente." },
+      { "id": "B", "texto": "No entregó el protocolo a tiempo porque se enfermó repentinamente." },
+      { "id": "C", "texto": "No entregó el protocolo a tiempo por qué se enfermó repentinamente." }
+    ],
+    "correcta": "B",
+    "hack": "'Porque' (junto y sin tilde) se usa para introducir explicaciones o causas; 'por qué' es interrogativo, y 'porqué' es un sustantivo.",
+    "desglose": {
+      "A": "Incorrecto. 'Porqué' con tilde es un sustantivo y no debe usarse para introducir la causa.",
+      "B": "¡Correcto! El conector causal se escribe unido y sin tilde ('porque').",
+      "C": "Incorrecto. La forma interrogativa 'por qué' no corresponde a este enunciado afirmativo de causa."
+    }
+  },
+  {
+    "id": 92,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Selecciona el enunciado que muestra un uso correcto del gerundio:",
+    "opciones": [
+      { "id": "A", "texto": "El investigador redactó un artículo explicando los resultados obtenidos." },
+      { "id": "B", "texto": "Se aprobó una ley multando a las empresas contaminantes." },
+      "C": "El alumno entró al aula saludando a sus compañeros."
+    ],
+    "correcta": "A",
+    "hack": "El gerundio debe expresar una acción simultánea o anterior inmediata al verbo principal; evita el gerundio de posterioridad (como en leyes que 'multando' o resultados que ocurren después).",
+    "desglose": {
+      "A": "¡Correcto! El gerundio 'explicando' expresa una acción simultánea a la redacción del artículo.",
+      "B": "Incorrecto. Utiliza un gerundio de posterioridad incorrecto (la multa ocurre como consecuencia posterior de la ley).",
+      "C": "Incorrecto aunque aceptable en ciertos contextos orales, la gramática normativa prefiere evitar acciones posteriores desvinculadas."
+    }
+  },
+  {
+    "id": 93,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija el enunciado que utiliza correctamente las mayúsculas:",
+    "opciones": [
+      { "id": "A", "texto": "El Presidente de la República Mexicano visitó la Universidad Autónoma." },
+      { "id": "B", "texto": "El presidente de la república mexicana visitó la universidad autónoma." },
+      { "id": "C": "El presidente de la república mexicana visitó la Universidad Autónoma." }
+    ],
+    "correcta": "C",
+    "hack": "Los cargos oficiales (presidente) y gentilicios (mexicana) se escriben con minúscula inicial, mientras que los nombres propios de instituciones (Universidad Autónoma) llevan mayúscula.",
+    "desglose": {
+      "A": "Incorrecto. Escribe con mayúscula indebida el cargo genérico 'presidente'.",
+      "B": "Incorrecto. Omite las mayúsculas obligatorias en el nombre propio de la institución.",
+      "C": "¡Correcto! Aplica correctamente las minúsculas en cargos/gentilicios y las mayúsculas en instituciones."
+    }
+  },
+  {
+    "id": 94,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione la opción que presenta un uso correcto de las grafías 's', 'c' o 'z':",
+    "opciones": [
+      { "id": "A", "texto": "La conseción del permiso fue aprobada por exepción." },
+      { "id": "B", "texto": "La concesión del permiso fue aprobada por excepción." },
+      { "id": "C", "texto": "La concsión del permiso fue aprobada por exepción." }
+    ],
+    "correcta": "B",
+    "hack": "Las palabras derivadas con terminación -sión provienen de voces con -ceder/-mitir; excepción se escribe con 'cepción'.",
+    "desglose": {
+      "A": "Incorrecto. 'Concesión' se escribe con c y sc, y 'excepción' requiere la p.",
+      "B": "¡Correcto! Ambas palabras ('concesión' y 'excepción') están escritas con rigurosa exactitud ortográfica.",
+      "C": "Incorrecto. Contiene graves errores ortográficos por omisión de letras ('concsión', 'exepción')."
+    }
+  },
+  {
+    "id": 95,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción que completa correctamente la oración con el par de homófonos adecuado:\nTuvo que _____ la puerta porque no _____ la llave correcta.",
+    "opciones": [
+      { "id": "A", "texto": "botar - voto" },
+      { "id": "B", "texto": "votar - botó" },
+      { "id": "C", "texto": "botar - votó" }
+    ],
+    "correcta": "C",
+    "hack": "Botar (con b) significa arrojar o rebotar; votar (con v) se refiere a emitir un sufragio.",
+    "desglose": {
+      "A": "Incorrecto. 'Voto' no concuerda con el sentido de la acción de la llave.",
+      "B": "Incorrecto. 'Votar' con v no aplica para la acción física de abrir o arrojar la puerta.",
+      "C": "¡Correcto! 'Botar' (arrojar/tirar) y 'votó' (del verbo votar) se diferencian correctamente por contexto y grafía."
+    }
+  },
+  {
+    "id": 96,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Selecciona el enunciado que utiliza correctamente la preposición y evita el 'dequeísmo':",
+    "opciones": [
+      { "id": "A", "texto": "Pienso de que la investigación científica requiere mayor presupuesto." },
+      { "id": "B", "texto": "Pienso que la investigación científica requiere mayor presupuesto." },
+      { "id": "C", "texto": "Estoy seguro de que aprobaremos el examen de admisión." }
+    ],
+    "correcta": "B",
+    "hack": "Para detectar el dequeísmo, sustituye la proposición subordinada por 'eso': si 'pienso eso' funciona, el 'de que' es incorrecto.",
+    "desglose": {
+      "A": "Incorrecto. Incurre en dequeísmo innecesario ('pienso de que').",
+      "B": "¡Correcto! Elimina la preposición 'de' indebida, estructurando la oración de forma impecable ('pienso que').",
+      "C": "Correcto sintácticamente, pero la B ejemplifica la corrección directa del dequeísmo planteado."
+    }
+  },
+  {
+    "id": 97,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción que presenta una correcta acentuación diacrítica en pronombres:",
+    "opciones": [
+      { "id": "A", "texto": "El libro es para mi, no para ti." },
+      { "id": "B", "texto": "El libro es para mí, no para ti." },
+      { "id": "C", "texto": "Él libro es para mí, no para tí." }
+    ],
+    "correcta": "B",
+    "hack": "El pronombre personal 'mí' lleva tilde diacrítica; el adjetivo posesivo 'mi' no la lleva. 'Ti' nunca se acentúa.",
+    "desglose": {
+      "A": "Incorrecto. Omite la tilde diacrítica en el pronombre personal 'mí'.",
+      "B": "¡Correcto! 'mí' (pronombre) lleva tilde, mientras que 'ti' se escribe siempre sin tilde.",
+      "C": "Incorrecto. El artículo 'El' no lleva tilde y 'tí' está indebidamente acentuado."
+    }
+  },
+  {
+    "id": 98,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione el enunciado que evita el 'queísmo' incorrecto:",
+    "opciones": [
+      { "id": "A", "texto": "Acuérdate que mañana tenemos la revisión del protocolo." },
+      { "id": "B", "texto": "Acuérdate de que mañana tenemos la revisión del protocolo." },
+      { "id": "C", "texto": "Estoy seguro que alcanzaremos un puntaje alto." }
+    ],
+    "correcta": "B",
+    "hack": "El verbo 'acordarse' exige la preposición 'de' (acordarse de algo), por lo que omitirla constituye un error de queísmo.",
+    "desglose": {
+      "A": "Incorrecto. Incurre en queísmo al omitir la preposición obligatoria 'de'.",
+      "B": "¡Correcto! Emplea la estructura pronominal exigida por el régimen del verbo ('acuérdate de que').",
+      "C": "Incorrecto. Muestra otro caso de queísmo ('seguro que' en lugar de 'seguro de que')."
+    }
+  },
+  {
+    "id": 99,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción escrita correctamente que emplea el conector de contraste o adversativo:",
+    "opciones": [
+      { "id": "A", "texto": "Estudió intensamente para el examen; sin embargo, no obtuvo el resultado esperado." },
+      { "id": "B", "texto": "Estudió intensamente para el examen, sin embargo no obtuvo el resultado esperado." },
+      { "id": "C", "texto": "Estudió intensamente para el examen sin embargo, no obtuvo el resultado esperado." }
+    ],
+    "correcta": "A",
+    "hack": "Los conectores adversativos largos como 'sin embargo' deben ir precedidos de punto y coma o punto, y seguidos obligatoriamente por una coma.",
+    "desglose": {
+      "A": "¡Correcto! Utiliza punto y coma antes del conector y coma después de este ('sin embargo,').",
+      "B": "Incorrecto. Comete un error de puntuación al unir oraciones independientes solo con coma (coma splice).",
+      "C": "Incorrecto. Coloca la coma de forma aislada tras el conector sin separar correctamente la cláusula previa."
+    }
+  },
+  {
+    "id": 100,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione la opción con la ortografía correcta en los numerales o palabras compuestas:",
+    "opciones": [
+      { "id": "A", "texto": "veintidos - ciempiés" },
+      { "id": "B", "texto": "veintidós - ciempiés" },
+      { "id": "C", "texto": "veintidós - ciempies" }
+    ],
+    "correcta": "B",
+    "hack": "Las palabras agudas terminadas en 's' ('veintidós', 'ciempiés') conservan su tilde al formar palabras compuestas.",
+    "desglose": {
+      "A": "Incorrecto. Omite la tilde aguda obligatoria en 'veintidós'.",
+      "B": "¡Correcto! Ambas palabras compuestas agudas terminadas en 's' se acentúan correctamente.",
+      "C": "Incorrecto. Omite la tilde aguda final en la palabra 'ciempiés'."
+    }
+  },
+  {
+    "id": 101,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija el enunciado que muestra una correcta concordancia en participio irregular:",
+    "opciones": [
+      { "id": "A", "texto": "El documento ha sido imprimido por la dirección escolar." },
+      { "id": "B", "texto": "El documento ha sido impreso por la dirección escolar." },
+      { "id": "C", "texto": "El documento fue imprimidó con errores." }
+    ],
+    "correcta": "B",
+    "hack": "Verbos como imprimir, freír y proveer tienen participios irregulares consolidados ('impreso', 'frito', 'provisto') preferidos en la norma culta al formar tiempos compuestos con haber.",
+    "desglose": {
+      "A": "Aunque la RAE acepta secundariamente formas regulares en algunos contextos, 'impreso' es la forma culta preferida.",
+      "B": "¡Correcto! Emplea la forma participial irregular culta e idónea ('impreso').",
+      "C": "Incorrecto. La forma acentuada 'imprimidó' no existe en el español."
+    }
+  },
+  {
+    "id": 102,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione la opción con la puntuación correcta para una frase explicativa (inciso):",
+    "opciones": [
+      { "id": "A", "texto": "Los aspirantes que estudiaron con disciplina obtuvieron excelentes puntajes." },
+      { "id": "B", "texto": "Los aspirantes, que estudiaron con disciplina, obtuvieron excelentes puntajes." },
+      { "id": "C", "texto": "Los aspirantes que estudiaron con disciplina, obtuvieron excelentes puntajes." }
+    ],
+    "correcta": "B",
+    "hack": "Si la oración subordinada es explicativa (aporta un dato extra prescindible), va entre comas; si es especificativa, no lleva comas.",
+    "desglose": {
+      "A": "Interpreta la frase como especificativa (solo algunos estudiaron), pero si se busca explicar un inciso general, la B muestra el uso de comas explicativas.",
+      "B": "¡Correcto! Las comas encierran correctamente una proposición subordinada adjetiva explicativa.",
+      "C": "Incorrecto. Separa incorrectamente con una sola coma el sujeto de su predicado principal."
+    }
+  },
+  {
+    "id": 103,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción escrita correctamente que evita el uso de solecismos o errores de sintaxis:",
+    "opciones": [
+      { "id": "A", "texto": "A mí me parece de que debemos revisar la metodología." },
+      { "id": "B", "texto": "A mí me parece que debemos revisar la metodología." },
+      { "id": "C", "texto": "Bajo mi punto de vista, el enfoque es correcto." }
+    ],
+    "correcta": "B",
+    "hack": "Evita el dequeísmo y expresiones híbridas incorrectas. La forma directa es 'me parece que'.",
+    "desglose": {
+      "A": "Incorrecto. Contiene un error de dequeísmo ('parece de que').",
+      "B": "¡Correcto! Mantiene una construcción sintáctica limpia, directa y exenta de errores de régimen.",
+      "C": "Aunque idiomáticamente usada, la norma culta prefiere 'desde mi punto de vista' en lugar de 'bajo', pero la B es gramaticalmente intachable."
+    }
+  },
+  {
+    "id": 104,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione la opción que utiliza correctamente el plural de las palabras terminadas en consonante:",
+    "opciones": [
+      { "id": "A", "texto": "Los carácteres tipográficos fueron modificados en el manual." },
+      { "id": "B", "texto": "Los caracteres tipográficos fueron modificados en el manual." },
+      { "id": "C", "texto": "Los carácteristicas del estudio son complejas." }
+    ],
+    "correcta": "B",
+    "hack": "Al pasar la palabra llana 'carácter' al plural, se desplaza el acento y pierde la tilde ('caracteres').",
+    "desglose": {
+      "A": "Incorrecto. Conservar la tilde en el plural 'carácteres' es un error ortográfico frecuente.",
+      "B": "¡Correcto! El plural correcto y sin tilde es 'caracteres'.",
+      "C": "Incorrecto. Mezcla una palabra inexistente con errores de concordancia de género."
+    }
+  },
+  {
+    "id": 105,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción que presenta una correcta sinonimia contextual para la palabra en negritas:\nEl investigador presentó un argumento **sólido** ante el comité sinodal.",
+    "opciones": [
+      { "id": "A", "texto": "Firme" },
+      { "id": "B", "texto": "Duro" },
+      { "id": "C", "texto": "Congelado" }
+    ],
+    "correcta": "A",
+    "hack": "En contextos académicos, un argumento 'sólido' se refiere a que está bien fundamentado, por lo que su sinónimo contextual es 'firme'.",
+    "desglose": {
+      "A": "¡Correcto! 'Firme' denota solidez argumentativa y rigor conceptual en el contexto académico.",
+      "B": "Incorrecto. 'Duro' se refiere a la consistencia física de un objeto, no a un argumento.",
+      "C": "Incorrecto. 'Congelado' alude a la temperatura, totalmente ajeno al sentido del texto."
+    }
+  },
+  {
+    "id": 106,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione el enunciado que presenta una adecuada cohesión textual mediante conectores de consecuencia:",
+    "opciones": [
+      { "id": "A", "texto": "El análisis estadístico arrojó datos concluyentes; por consiguiente, se validó la hipótesis." },
+      { "id": "B", "texto": "El análisis estadístico arrojó datos concluyentes pero se validó la hipótesis." },
+      { "id": "C", "texto": "El análisis estadístico arrojó datos concluyentes aunque se validó la hipótesis." }
+    ],
+    "correcta": "A",
+    "hack": "Los conectores de consecuencia ('por consiguiente', 'por lo tanto') enlazan de forma lógica un resultado derivado de una premisa previa.",
+    "desglose": {
+      "A": "¡Correcto! Utiliza correctamente el conector consecutivo precedido de punto y coma y seguido de coma.",
+      "B": "Incorrecto. El uso del conector adversativo 'pero' contradice la ilación lógica de causa-efecto.",
+      "C": "Incorrecto. El conector concesivo 'aunque' introduce una oposición ilógica frente a los datos concluyentes."
+    }
+  },
+  {
+    "id": 107,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción escrita correctamente en cuanto a los signos de interrogación y exclamación:",
+    "opciones": [
+      { "id": "A", "texto": "¿Cuál es el objetivo principal de tu proyecto de investigación?" },
+      { "id": "B", "texto": "Cual es el objetivo principal de tu proyecto de investigación?" },
+      { "id": "C", "texto": "¿Cual es el objetivo principal de tu proyecto de investigación." }
+    ],
+    "correcta": "A",
+    "hack": "En español es obligatorio el uso de los signos de apertura (¿, ¡) y de cierre (?, !), además de acentuar adecuadamente los pronombres interrogativos.",
+    "desglose": {
+      "A": "¡Correcto! Presenta signos de apertura y cierre, además de la tilde interrogativa en 'Cuál'.",
+      "B": "Incorrecto. Omite por completo el signo de interrogación de apertura.",
+      "C": "Incorrecto. Inicia con signo de interrogación pero cierra con un punto ordinario."
+    }
+  },
+  {
+    "id": 108,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione la opción que muestra el uso correcto de las letras 'b' y 'v':",
+    "opciones": [
+      { "id": "A", "texto": "La observación de los fenómenos biológicos requiere rigor analítico." },
+      { "id": "B", "texto": "La obhervación de los fenomenos biologicos requiere rigor analítico." },
+      { "id": "C", "texto": "La observación de los fenomenos biológicos requiere rigor analitico." }
+    ],
+    "correcta": "A",
+    "hack": "Las palabras 'observación' y 'biológicos' siguen las reglas ortográficas generales sin intercalar haches indebidas.",
+    "desglose": {
+      "A": "¡Correcto! Las palabras están escritas con estricto apego a la normativa ortográfica.",
+      "B": "Incorrecto. Introduce una letra 'h' intercalada incorrecta en 'observación'.",
+      "C": "Incorrecto. Omite las tildes obligatorias en las palabras esdrújulas ('fenómenos') y agudas ('analítico' es esdrújula, pero faltaba tilde en analítico). Nota: analítico es esdrújula, lleva tilde. La opción C omite tildes."
+    }
+  },
+  {
+    "id": 109,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción que presenta una concordancia correcta entre sujeto y predicado con cuantificadores:",
+    "opciones": [
+      { "id": "A", "texto": "La mayoría de los estudiantes aprobó el examen de admisión." },
+      { "id": "B", "texto": "La mayoría de los estudiantes aprobaron el examen de admisión." },
+      { "id": "C", "texto": "Un grupo de expertos analizaron los datos." }
+    ],
+    "correcta": "A",
+    "hack": "Con expresiones partitivas o cuantificadoras seguidas de un plural ('la mayoría de los estudiantes'), el verbo puede ir en singular (concordando con el núcleo 'mayoría') o en plural, pero la norma formal prefiere con frecuencia el singular.",
+    "desglose": {
+      "A": "¡Correcto! El verbo concuerda en singular con el núcleo principal del sujeto ('mayoría').",
+      "B": "Aunque gramaticalmente admisible en plural por atracción, la A representa la forma recomendada por la Academia en la mayoría de estos contextos.",
+      "C": "Presenta pluralización por atracción que a veces compite, pero la A ejemplifica la regla clara de núcleo singular."
+    }
+  },
+  {
+    "id": 110,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione el enunciado que utiliza correctamente las reglas de acentuación en palabras compuestas unidas con guion:",
+    "opciones": [
+      { "id": "A", "texto": "Se firmó un acuerdo histórico franco-alemán." },
+      { "id": "B", "texto": "Se firmó un acuerdo histórico franco alemán." },
+      { "id": "C", "texto": "Se firmó un acuerdo historico franco-aleman." }
+    ],
+    "correcta": "A",
+    "hack": "En los compuestos formados por dos o más adjetivos unidos con guion, cada elemento conserva su acentuación gráfica independiente.",
+    "desglose": {
+      "A": "¡Correcto! Ambos adjetivos conservan su tilde individual al unirse mediante guion ('histórico' y 'alemán').",
+      "B": "Incorrecto. Los gentilicios compuestos deben unirse con guion ortográfico.",
+      "C": "Incorrecto. Omite las tildes obligatorias en las palabras esdrújulas y agudas."
+    }
+  },
+  {
+    "id": 111,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción que emplea adecuadamente los dos puntos para introducir una cita textual:",
+    "opciones": [
+      { "id": "A", "texto": "El autor afirmó: 'La investigación exige rigor metodológico'." },
+      { "id": "B", "texto": "El autor afirmó, 'La investigación exige rigor metodológico'." },
+      { "id": "C", "texto": "El autor afirmó que: 'La investigación exige rigor metodológico'." }
+    ],
+    "correcta": "A",
+    "hack": "Los dos puntos se emplean antes de una cita textual precedida por verbos de dicción, sin intercalar la conjunción 'que'.",
+    "desglose": {
+      "A": "¡Correcto! Los dos puntos introducen limpiamente la cita textual sin elementos innecesarios.",
+      "B": "Incorrecto. Utiliza una coma incorrecta para separar la oración introductoria de la cita.",
+      "C": "Incorrecto. Es un error gramatical combinar la conjunción 'que' con los dos puntos ('afirmó que:')."
+    }
+  },
+  {
+    "id": 112,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione la opción que presenta un uso correcto de las abreviaturas y siglas institucionales:",
+    "opciones": [
+      { "id": "A", "texto": "La O.N.U. emitió un comunicado oficial sobre el cambio climático." },
+      { "id": "B", "texto": "La ONU emitió un comunicado oficial sobre el cambio climático." },
+      { "id": "C", "texto": "Varias ONUS participaron en la cumbre internacional." }
+    ],
+    "correcta": "B",
+    "hack": "Las siglas se escriben íntegramente en mayúsculas y nunca llevan puntos ni marcas de plural con 's' al final.",
+    "desglose": {
+      "A": "Incorrecto. Las siglas modernas no llevan puntos abreviativos internos.",
+      "B": "¡Correcto! Las siglas se escriben sin puntos ni espacios intermedios ('ONU').",
+      "C": "Incorrecto. Las siglas son invariables en plural (no se escribe 'ONUS')."
+    }
+  },
+  {
+    "id": 113,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción con la ortografía correcta en los derivados con prefijos:",
+    "opciones": [
+      { "id": "A", "texto": "El ex-presidente asistió a la cumbre internacional." },
+      { "id": "B", "texto": "El expresidente asistió a la cumbre internacional." },
+      { "id": "C", "texto": "El ex presidente asistió a la cumbre internacional." }
+    ],
+    "correcta": "B",
+    "hack": "Los prefijos de una sola palabra (como ex-, anti-, pro-) se escriben unidos a la palabra base sin guion ni espacios intermedios.",
+    "desglose": {
+      "A": "Incorrecto. El uso de guion en prefijos universales de una sola palabra es un anglicismo desatendido por la RAE.",
+      "B": "¡Correcto! El prefijo 'ex-' se escribe soldado a la palabra base ('expresidente').",
+      "C": "Incorrecto. Dejar espacio intermedio entre prefijo y base es incorrecto."
+    }
+  },
+  {
+    "id": 114,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione el enunciado que presenta una correcta correlación de tiempos verbales:",
+    "opciones": [
+      { "id": "A", "texto": "Si estudias con dedicación, aprobarás el examen de admisión." },
+      { "id": "B", "texto": "Si estudias con dedicación, aprobarías el examen de admisión." },
+      { "id": "C", "texto": "Si estudiarías con dedicación, aprobarás el examen." }
+    ],
+    "correcta": "A",
+    "hack": "En las oraciones condicionales probables con 'si', el verbo de la condición va en presente de indicativo y el de la consecuencia en futuro.",
+    "desglose": {
+      "A": "¡Correcto! Presenta la correlación lógica y normativa entre presente ('estudias') y futuro ('aprobarás').",
+      "B": "Incorrecto. Mezcla inadecuadamente el presente con el condicional simple en este tipo de condición directa.",
+      "C": "Incorrecto. El uso del condicional en la cláusula subordinada condicional ('si estudiarías') constituye un error gramatical grave."
+    }
+  },
+  {
+    "id": 115,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción que sustituye correctamente la expresión vulgar por una de precisión léxica formal:",
+    "opciones": [
+      { "id": "A", "texto": "El comité hizo un chorro de observaciones al protocolo de investigación." },
+      { "id": "B", "texto": "El comité formuló múltiples observaciones al protocolo de investigación." },
+      { "id": "C", "texto": "El comité se aventó un montón de observaciones al protocolo." }
+    ],
+    "correcta": "B",
+    "hack": "Sustituye modismos coloquiales o vulgares ('un chorro', 'un montón') por términos precisos y formales ('múltiples', 'numerosas').",
+    "desglose": {
+      "A": "Incorrecto. Contiene la expresión coloquial y vulgar 'un chorro'.",
+      "B": "¡Correcto! Utiliza un registro formal y vocabulario preciso ('múltiples observaciones').",
+      "C": "Incorrecto. Emplea modismos vulgares ('se aventó un montón') totalmente ajenos al ámbito académico."
+    }
+  },
+  {
+    "id": 116,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione la opción que utiliza correctamente el punto y coma para separar elementos complejos en una enumeración:",
+    "opciones": [
+      { "id": "A", "texto": "En la sesión se discutieron tres temas: el primero, sobre metodología cualitativa; el segundo, acerca de estadística descriptiva; y el tercero, sobre redacción avanzada." },
+      { "id": "B", "texto": "En la sesión se discutieron tres temas: el primero sobre metodología cualitativa, el segundo acerca de estadística descriptiva y el tercero sobre redacción avanzada." },
+      { "id": "C", "texto": "En la sesión se discutieron tres temas; el primero sobre metodología cualitativa, el segundo acerca de estadística descriptiva." }
+    ],
+    "correcta": "A",
+    "hack": "Se emplea el punto y coma para separar los elementos de una enumeración compleja que ya incluyen comas internas.",
+    "desglose": {
+      "A": "¡Correcto! Utiliza magistralmente el punto y coma para separar los incisos complejos de la enumeración.",
+      "B": "Incorrecto. Utiliza únicamente comas en una enumeración compleja, generando confusión sintáctica.",
+      "C": "Incorrecto. Emplea indebidamente el punto y coma tras los dos puntos al introducir la enumeración."
+    }
+  },
+  {
+    "id": 117,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción escrita correctamente que evita el loísmo, laísmo o leísmo normativo censurable:",
+    "opciones": [
+      { "id": "A", "texto": "A María le entregué el documento ayer por la tarde." },
+      { "id": "B", "texto": "A María la entregué el documento ayer por la tarde." },
+      { "id": "C", "texto": "A María lo entregué el documento ayer por la tarde." }
+    ],
+    "correcta": "A",
+    "hack": "El complemento indirecto femenino singular ('a María') debe duplicarse y sustituirse por el pronombre 'le', evitando el laísmo o loísmo.",
+    "desglose": {
+      "A": "¡Correcto! Emplea el pronombre de objeto indirecto correcto ('le entregué').",
+      "B": "Incorrecto. Incurre en laísmo al utilizar el pronombre de objeto directo 'la' para el objeto indirecto.",
+      "C": "Incorrecto. Incurre en loísmo al emplear el pronombre 'lo'."
+    }
+  },
+  {
+    "id": 118,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione el enunciado que presenta una adecuada cohesión gramatical mediante elipsis:",
+    "opciones": [
+      { "id": "A", "texto": "Juan obtuvo el primer lugar en matemáticas; Pedro, en literatura." },
+      { "id": "B", "texto": "Juan obtuvo el primer lugar en matemáticas; Pedro obtuvo el primer lugar en literatura." },
+      { "id": "C", "texto": "Juan obtuvo el primer lugar en matemáticas y Pedro obtuvo en literatura." }
+    ],
+    "correcta": "A",
+    "hack": "La elipsis consiste en omitir palabras sobreentendidas (como el verbo 'obtuvo') utilizando una coma para evitar repeticiones.",
+    "desglose": {
+      "A": "¡Correcto! Utiliza la elipsis de manera elegante y económica mediante una coma que sustituye al verbo sobrentendido.",
+      "B": "Aunque correcta, resulta redundante al repetir toda la estructura verbal.",
+      "C": "Incorrecto. Deja la oración incompleta sin un soporte sintáctico adecuado ('en literatura' queda volando sin el verbo elidido correctamente por coma)."
+    }
+  },
+  {
+    "id": 119,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción con la ortografía correcta en los verbos terminados en -ger y -gir:",
+    "opciones": [
+      { "id": "A", "texto": "Es necesario proteger el medio ambiente y elegir autoridades competentes." },
+      { "id": "B", "texto": "Es necesario protender el medio ambiente y elejir autoridades competentes." },
+      { "id": "C", "texto": "Es necesario protéger el medio ambiente y elegir autoridades competentes." }
+    ],
+    "correcta": "A",
+    "hack": "Los verbos terminados en -ger y -gir se escriben con g en infinitivo (excepto tejer y crujir), y nunca llevan tilde en la vocal e del infinitivo.",
+    "desglose": {
+      "A": "¡Correcto! 'Proteger' y 'elegir' están escritas con las grafías normativas correctas sin tildes impropias.",
+      "B": "Incorrecto. Escribe incorrectamente 'protender' y 'elejir' con j.",
+      "C": "Incorrecto. Acentúa indebidamente la vocal del infinitivo ('protéger')."
+    }
+  },
+  {
+    "id": 120,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione la opción que presenta una redacción clara, precisa y libre de ambigüedades:",
+    "opciones": [
+      { "id": "A", "texto": "El profesor entregó los libros a los alumnos que estaban rotos." },
+      { "id": "B", "texto": "El profesor entregó a los alumnos los libros que estaban rotos." },
+      { "id": "C", "texto": "Los alumnos recibieron del profesor los libros que estaban rotos." }
+    ],
+    "correcta": "B",
+    "hack": "Evita la anfibología o ambigüedad cambiando el orden de las palabras para que el modificador ('que estaban rotos') se refiera inequívocamente al objeto correcto (los libros).",
+    "desglose": {
+      "A": "Incorrecto. Construcción ambigua (da a entender absurdamente que los alumnos estaban rotos).",
+      "B": "¡Correcto! Coloca la cláusula subordinada junto al antecedente correcto ('libros'), eliminando cualquier ambigüedad.",
+      "C": "También correcta y clara, pero la B demuestra la corrección directa del vicio sintáctico original."
+    }
+  },
+  {
+    "id": 121,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción escrita correctamente que emplea las reglas de acentuación en diptongos e hiatos:",
+    "opciones": [
+      { "id": "A", "texto": "El estudiante comio una fruta y despues salio al laboratorio." },
+      { "id": "B", "texto": "El estudiante comió una fruta y después salió al laboratorio." },
+      { "id": "C", "texto": "El estudiante comio una fruta y despues salio al laboratorio." }
+    ],
+    "correcta": "B",
+    "hack": "Las palabras agudas terminadas en vocal ('comió', 'después', 'salió') llevan tilde obligatoria.",
+    "desglose": {
+      "A": "Incorrecto. Omite las tildes obligatorias en las palabras agudas terminadas en vocal.",
+      "B": "¡Correcto! Presenta la acentuación ortográfica exacta en cada palabra aguda exigida por la norma.",
+      "C": "Incorrecto. Carece de tildes en todos los verbos agudos del enunciado."
+    }
+  },
+  {
+    "id": 122,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione la opción que utiliza correctamente las comillas en una cita o término destacado:",
+    "opciones": [
+      { "id": "A", "texto": "El concepto de «paradigma» fue analizado profundamente en la sesión." },
+      { "id": "B", "texto": "El concepto de 'paradigma' fue analizado profundamente en la sesión." },
+      { "id": "C", "texto": "El concepto de \"paradigma\" fue analizado profundamente en la sesión." }
+    ],
+    "correcta": "A",
+    "hack": "La ortografía de la lengua española recomienda priorizar el uso de las comillas angulares o latinas (« ») en primer lugar para destacar términos o citas.",
+    "desglose": {
+      "A": "¡Correcto! Emplea las comillas angulares (« »), que son las aconsejadas normativamente en español.",
+      "B": "Aunque las comillas simples se aceptan de manera secundaria, las angulares son preferidas por la RAE.",
+      "C": "Las comillas dobles inglesas (\" \") son de uso secundario frente a las latinas en textos impresos formales."
+    }
+  },
+  {
+    "id": 123,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija el enunciado que muestra un uso correcto del condicional y subjuntivo:",
+    "opciones": [
+      { "id": "A", "texto": "Si hubiera estudiado con mayor anticipación, habría obtenido una mejor calificación." },
+      { "id": "B", "texto": "Si habría estudiado con mayor anticipación, hubiera obtenido una mejor calificación." },
+      { "id": "C", "texto": "Si estudiaría más, obtendría mejores resultados." }
+    ],
+    "correcta": "A",
+    "hack": "En las oraciones condicionales irreales o hipotéticas del pasado, la condición exige pretérito pluscuamperfecto de subjuntivo ('hubiera estudiado') y la consecuencia condicional compuesto ('habría obtenido').",
+    "desglose": {
+      "A": "¡Correcto! Mantiene la correlación normativa perfecta para hipótesis pasadas no cumplidas.",
+      "B": "Incorrecto. Comete el error clásico de colocar el condicional en la cláusula del 'si' ('si habría').",
+      "C": "Incorrecto. Utiliza incorrectamente el condicional en la prótasis condicional ('si estudiarías')."
+    }
+  },
+  {
+    "id": 124,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione la opción que presenta una adecuada cohesión léxico-semántica mediante antonimia contextual:",
+    "opciones": [
+      { "id": "A", "texto": "Mientras el método cuantitativo busca la precisión numérica, el enfoque cualitativo prioriza la comprensión profunda." },
+      { "id": "B", "texto": "Mientras el método cuantitativo busca la precisión numérica, el enfoque cualitativo busca la misma precisión numérica." },
+      { "id": "C", "texto": "El método cuantitativo es rápido y el cualitativo también es rápido." }
+    ],
+    "correcta": "A",
+    "hack": "Los conectores de oposición ('mientras') contrastan conceptos opuestos o complementarios (cuantitativo vs. cualitativo).",
+    "desglose": {
+      "A": "¡Correcto! Contrasta adecuadamente dos enfoques metodológicos mediante una oposición semántica coherente.",
+      "B": "Incorrecto. Anula el contraste lógico al afirmar que buscan exactamente lo mismo.",
+      "C": "Incorrecto. Carece de variedad léxica y de contraste analítico."
+    }
+  },
+  {
+    "id": 125,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción escrita correctamente que emplea la grafía 'h' de manera normativa:",
+    "opciones": [
+      { "id": "A", "texto": "El zanahoria es una verdura rica en nutrientes." },
+      { "id": "B", "texto": "La zanahoria es una verdura rica en nutrientes." },
+      { "id": "C", "texto": "La sanahoria es una verdura rica en nutrientes." }
+    ],
+    "correcta": "B",
+    "hack": "La palabra 'zanahoria' se escribe con z inicial y una h intercalada antes del diptongo oa.",
+    "desglose": {
+      "A": "Incorrecto. Falla en la concordancia de género ('El zanahoria' cuando es 'la zanahoria').",
+      "B": "¡Correcto! Presenta la concordancia de género adecuada y la ortografía exacta con h intercalada ('zanahoria').",
+      "C": "Incorrecto. Escribe erróneamente la palabra con s inicial ('sanahoria')."
+    }
+  },
+  {
+    "id": 126,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione el enunciado que utiliza correctamente los números y abreviaturas en textos formales:",
+    "opciones": [
+      { "id": "A", "texto": "El congreso se llevará a cabo el 15 de Octubre de 2026." },
+      { "id": "B", "texto": "El congreso se llevará a cabo el 15 de octubre de 2026." },
+      { "id": "C", "texto": "El congreso se llevará a cabo el quince de octubre del año 2 mil veintiseis." }
+    ],
+    "correcta": "B",
+    "hack": "Los meses del año se escriben siempre con minúscula inicial en español.",
+    "desglose": {
+      "A": "Incorrecto. Escribe con mayúscula inicial indebida el nombre del mes ('Octubre').",
+      "B": "¡Correcto! Utiliza minúscula en el mes ('octubre') y formato arábigo adecuado para el año.",
+      "C": "Incorrecto. Redacta de forma inconveniente y con errores los numerales del año."
+    }
+  },
+  {
+    "id": 127,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción que presenta una concordancia correcta en colectivos numéricos o porcentajes:",
+    "opciones": [
+      { "id": "A", "texto": "El 30% de los encuestados votó a favor de la propuesta." },
+      { "id": "B", "texto": "El 30% de los encuestados votaron a favor de la propuesta." },
+      { "id": "C", "texto": "El 30% de los encuestados votaste a favor."
+    ],
+    "correcta": "B",
+    "hack": "Cuando un porcentaje va seguido de un complemento en plural ('de los encuestados'), el verbo puede concordar en plural con dicho complemento.",
+    "desglose": {
+      "A": "Aunque aceptado en singular en algunos casos estrictos de núcleo, la concordancia en plural con el complemento es altamente frecuente y válida.",
+      "B": "¡Correcto! El verbo en plural ('votaron') concuerda armónicamente con el plural nominal 'de los encuestados'.",
+      "C": "Incorrecto. La desinencia verbal en segunda persona ('votaste') rompe por completo la coherencia del sujeto."
+    }
+  },
+  {
+    "id": 128,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione la opción escrita correctamente que evita el uso de redundancias temporales:",
+    "opciones": [
+      { "id": "A", "texto": "Lapso de tiempo de dos semanas." },
+      { "id": "B", "texto": "Lapso de dos semanas." },
+      { "id": "C", "texto": "Período de tiempo prolongado." }
+    ],
+    "correcta": "B",
+    "hack": "Un lapso o un período ya implican duración temporal, por lo que añadir 'de tiempo' constituye un pleonasmo.",
+    "desglose": {
+      "A": "Incorrecto. Contiene redundancia temporal ('lapso de tiempo').",
+      "B": "¡Correcto! Emplea la expresión precisa y concisa ('lapso de dos semanas').",
+      "C": "Incorrecto. Aunque admitido en ciertos registros, incurre en redundancia similar al decir período de tiempo."
+    }
+  },
+  {
+    "id": 129,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Elija la opción que presenta un uso adecuado de los prefijos de procedencia o negación:",
+    "opciones": [
+      { "id": "A", "texto": "El análisis resultó anormal debido a una anómala calibración." },
+      { "id": "B", "texto": "El análisis resultó a-normal debido a una an-ómala calibración." },
+      { "id": "C", "texto": "El análisis resultó anormal debido a una inormal calibración."
+    ],
+    "correcta": "A",
+    "hack": "El prefijo de negación 'a-' o 'an-' se escribe soldado a la raíz sin guiones intermedios.",
+    "desglose": {
+      "A": "¡Correcto! Las palabras 'anormal' y 'anómala' se escriben correctamente con prefijo unido sin guion.",
+      "B": "Incorrecto. El uso de guiones en prefijos simples es ajeno a la norma ortográfica.",
+      "C": "Incorrecto. La forma 'inormal' es incorrecta en español (debe ser anormal)."
+    }
+  },
+  {
+    "id": 130,
+    "modulo": "Redacción Indirecta",
+    "pregunta": "Seleccione el enunciado que utiliza correctamente el modo subjuntivo en oraciones subordinadas de duda:",
+    "opciones": [
+      { "id": "A", "texto": "Tal vez el comité apruebe el protocolo de investigación esta semana." },
+      { "id": "B", "texto": "Tal vez el comité aprobará el protocolo de investigación esta semana." },
+      { "id": "C", "texto": "Tal vez el comité aprobaría el protocolo de investigación esta semana." }
+    ],
+    "correcta": "A",
+    "hack": "Locuciones de duda como 'tal vez' o 'quizá' suelen regir el verbo en modo subjuntivo ('apruebe') cuando expresan probabilidad.",
+    "desglose": {
+      "A": "¡Correcto! Emplea el presente de subjuntivo ('apruebe') requerido tras el marcador de duda.",
+      "B": "Incorrecto. El uso de futuro de indicativo reduce la naturalidad modal de duda exigida.",
+      "C": "Incorrecto. El condicional simple en este contexto de duda presenta un desajuste modal."
+    }
+  }
+]
